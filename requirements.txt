@@ -64,7 +64,7 @@ tensorflow-estimator==2.0.0
 termcolor==1.1.0
 tqdm==4.42.0
 twilio==6.35.3
-urllib3==1.25.8
+urllib3==1.26.5
 Werkzeug==0.16.0
 wincertstore==0.2
 wrapt==1.11.2
